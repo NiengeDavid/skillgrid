@@ -8,7 +8,7 @@ export const homepageDetails = {
     text: "Join Now",
   },
   video: {
-    link: "https://youtu.be/6ORz9KNwXAo?si=VuAXp2cXNR4pUN1F",
+    link: "https://youtu.be/ttgCyTPHx44",
     text: "Watch video",
   },
 };
