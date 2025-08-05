@@ -137,6 +137,17 @@ export default function ResourcesPage() {
                 </a>
                 <span className="text-myBlack"> on paragraphs</span>
               </li>
+              <li className="list-disc">
+                <a
+                  href="https://jsbin.com/gunemev/4/edit?html,css,output"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange-600 hover:underline"
+                >
+                  Complete code
+                </a>
+                <span className="text-myBlack"> on Intro to HTML (Day2)</span>
+              </li>
             </ul>
           </div>
         </div>
