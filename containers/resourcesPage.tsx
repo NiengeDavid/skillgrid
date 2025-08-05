@@ -61,6 +61,27 @@ export default function ResourcesPage() {
             </h3>
             <ul className="space-y-2 pl-12">
               <li className="list-disc">
+                <span className="text-myBlack">What we will </span>
+                <a
+                  href="https://output.jsbin.com/dodagug"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange-600 hover:underline"
+                >
+                  build today
+                </a>
+              </li>
+              <li className="list-disc">
+                <a
+                  href="https://jsbin.com/babofal/edit?html,css,output"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange-600 hover:underline"
+                >
+                  Starter files
+                </a>
+              </li>
+              <li className="list-disc">
                 <a
                   href="/assets/htmlcheatsheet.pdf"
                   download
@@ -71,6 +92,50 @@ export default function ResourcesPage() {
                   HTML Cheatsheet
                 </a>
                 <span className="text-myBlack"> by Stanford University</span>
+              </li>
+              <li className="list-disc">
+                <span className="text-myBlack">Useful JsBin </span>
+                <a
+                  href="https://jsbin.com/help/keyboard-shortcuts"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange-600 hover:underline"
+                >
+                  keyboard shortcuts
+                </a>
+              </li>
+              <li className="list-disc">
+                <a
+                  href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange-600 hover:underline"
+                >
+                  MDN documentation
+                </a>
+                <span className="text-myBlack"> on headings</span>
+              </li>
+              <li className="list-disc">
+                <a
+                  href="https://www.w3schools.com/html/html_headings.asp"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange-600 hover:underline"
+                >
+                  W3Schools documentation
+                </a>
+                <span className="text-myBlack"> on headings</span>
+              </li>
+              <li className="list-disc">
+                <a
+                  href="https://www.w3schools.com/html/html_paragraphs.asp"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange-600 hover:underline"
+                >
+                  W3Schools documentation
+                </a>
+                <span className="text-myBlack"> on paragraphs</span>
               </li>
             </ul>
           </div>
