@@ -139,7 +139,7 @@ export default function ResourcesPage() {
               </li>
               <li className="list-disc">
                 <a
-                  href="https://jsbin.com/gunemev/4/edit?html,css,output"
+                  href="https://jsbin.com/gunemev/5/edit?html,css,output"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-orange-600 hover:underline"
